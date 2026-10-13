@@ -2,6 +2,7 @@
 
 # dependencies
 node_modules/
+public/videos/demo.mp4
 
 # Expo
 .expo/
