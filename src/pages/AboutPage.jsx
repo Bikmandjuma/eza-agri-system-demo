@@ -9,7 +9,7 @@ export default function AboutPage() {
       <PageHeader
         icon={Info}
         title="About"
-        subtitle="The research behind Eza Agri-System in Kayonza District, Rwanda."
+        subtitle="The research behind Eza Agri-System in  Rwanda."
       />
       <AboutResearch />
       <ResearchImpact />

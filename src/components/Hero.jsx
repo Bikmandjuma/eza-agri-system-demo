@@ -17,7 +17,7 @@ export default function Hero() {
         </h1>
         <p className="hero__text">
           An intelligent crop recommendation and disease detection approach supporting sustainable
-          agriculture in Kayonza District, Rwanda.
+          agriculture in Rwanda.
         </p>
         <div className="hero__buttons">
           <button type="button" className="btn btn--light" onClick={() => navigate("/demo", { state: { autoplay: true } })}>

@@ -5,7 +5,7 @@
 // Project details
 export const PROJECT_NAME = "Eza Agri-System";
 export const PROJECT_TAGLINE = "Smart Agriculture Research";
-export const LOCATION = "Kayonza District, Rwanda";
+export const LOCATION = " Rwanda";
 
 // Demo video: put your file in  public/videos/  and set its name here.
 // (Anything inside "public" is served from the site root.)

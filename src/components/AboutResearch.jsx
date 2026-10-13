@@ -17,7 +17,7 @@ export default function AboutResearch({ full = true }) {
           <h2 className="section__title">About the Research</h2>
           <p>
             Agriculture is essential to Rwanda's food security, employment, and economic growth.
-            However, farmers in Kayonza District face challenges such as irregular rainfall,
+            However, farmers in rwanda face challenges such as irregular rainfall,
             prolonged droughts, soil degradation, poor fertilizer management, and limited adoption
             of modern farming technologies.
           </p>
